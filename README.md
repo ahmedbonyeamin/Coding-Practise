@@ -1,8 +1,8 @@
-#Algorithms & Data Structures (with Python)
+## Algorithms & Data Structures (with Python)
 
-##Keeping track of the endless algo and data structures grind. 
+*Keeping track of the endless algo and data structures grind.*
 
-###Problems done so far
+**Problems done so far**
 1. Breadth first traversal of graph
 2. Binary Bitlist Palindrome
 3. Binary Search
